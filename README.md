@@ -28,9 +28,9 @@ I am a **Pre-Final Year Electronics and Communication Engineering student** at *
   <a href="https://www.arduino.cc/en/Tutorial/HomePage" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino IDE" width="40" height="40"/>  
   </a>  
-  <a href="[https://www.espressif.com/en/products/socs/esp32/resources](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html)" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" alt="ESP32" width="40" height="40"/>  
-  </a>  
+  <a href="https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" alt="ESP32" width="40" height="40"/>  
+</a>
   <a href="https://www.w3schools.com/sql/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>  
   </a>  
