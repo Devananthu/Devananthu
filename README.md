@@ -1,56 +1,32 @@
-### Hi there, I'm Devananthan G V! 👋
+v# 👋 Hi, I'm Devananthan G V
 
-🚀 **Electronics & Communication Engineer** | **Embedded Systems & IoT Developer** | **Full-Stack Web Developer**
+## 🎓 About Me
+- **Education:** Third-year ECE Student at Adhiyamaan College of Engineering, Hosur
+- **Interest:** Hardware & Software Integration, IoT, Embedded Systems, Web Development
+- **Hackathons:** SIH 2025 College Finalist, e-Yantra Robotics Competition 2024 Participant
+- **Workshops:** IoT, Web Development, Network Security
 
----
-
-## 🔥 About Me
-I am a passionate **Electronics & Communication Engineering** student with expertise in **Embedded Systems, IoT, and Software Development**. My interests span from designing hardware solutions to developing software applications that integrate seamlessly.
-
-🔹 **Specialized in**:
-- Embedded Systems (**ESP32, Raspberry Pi, Arduino**)
-- IoT & Cloud Computing (**Firebase, MongoDB, MQTT**)
-- Web Development (**HTML, CSS, JavaScript, PHP**)
-- Python & C Programming
-
----
+## 💻 Skills
+- **Programming:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- **Embedded Systems:** IoT, ESP32, RFID, Sensor Interfacing
+- **Software Development:** API Integration, MongoDB, Tkinter (GUI Development)
+- **Web Development:** HTML, CSS, JavaScript, WordPress, SEO
 
 ## 🚀 Projects
+- **Smart Braille e-Reader** - IoT-based Braille device for visually impaired
+- **RFID-based Hostel Gate Pass** - Secure RFID system for hostel entry
+- **CT Image Denoising** - AI-based medical image enhancement
+- **Speech-to-Emotion Detection** - Digital signal processing for emotion recognition
+- **Smart Doorbell with Visitor Notification** - IoT-based smart home device
 
-🔹 **Smart Braille e-Reader** – A device that helps visually impaired people read using **vibration motors** and **speech-to-Braille conversion**.
+## 🏆 Achievements
+- **C Programming Contest - 3rd Place** (ICL Software Development Center)
+- **Active LeetCode Problem Solver**
+- **Participated in IoT & Web Development Workshops**
 
-🔹 **RFID-based Hostel Gate Pass System** – A web-based solution for managing student **entry & exit** using **RFID authentication**.
+## 🔗 Connect with Me
+- **GitHub:** [github.com/yourgithubusername](https://github.com/yourgithubusername)
+- **LinkedIn:** [linkedin.com/in/yourlinkedin](https://linkedin.com/in/yourlinkedin)
+- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
 
-🔹 **CT Image Denoising System** – A project using **Machine Learning & Digital Image Processing** for improving CT scan quality.
-
-🔹 **Speech-to-Emotion Detection** – A system that recognizes emotions from speech signals using **DSP algorithms**.
-
-🔹 **BookSky** – A web development project using **HTML, CSS, and JavaScript** to create an interactive **online book platform**.
-
-🔗 Check out my projects **[here](https://github.com/Devananthan-GV?tab=repositories)**.
-
----
-
-## 📌 Skills
-
-🖥️ **Programming Languages**: Python, C, C++
-
-🔌 **Hardware & IoT**: ESP32, Raspberry Pi, Arduino, RFID, Sensors
-
-🌐 **Web Development**: HTML, CSS, JavaScript, PHP, WordPress
-
-☁️ **Databases & Cloud**: Firebase, MongoDB, MySQL
-
-⚡ **Version Control & Tools**: Git, GitHub, VS Code, Linux
-
----
-
-## 📫 Connect with Me!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devananthan-gv)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Devananthan-GV)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:devananthan.gv@example.com)
-
----
-
-⭐ **If you like my work, consider giving a star to my repositories!** ⭐
+⚡ Passionate about building tech that bridges hardware and software! Let's connect and collaborate! 🚀
