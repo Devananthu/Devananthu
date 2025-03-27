@@ -28,12 +28,21 @@ I am a **Pre-Final Year Electronics and Communication Engineering student** at *
   <a href="https://www.arduino.cc/en/Tutorial/HomePage" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino IDE" width="40" height="40"/>  
   </a>  
+  <a href="https://www.espressif.com/en/products/socs/esp32/resources" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/ESP32_Logo.svg/120px-ESP32_Logo.svg.png" alt="ESP32" width="40" height="40"/>  
+  </a>  
+  <a href="https://www.w3schools.com/sql/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>  
+  </a>  
   <a href="https://www.aws.training/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Cloud" width="40" height="40"/>  
+  </a>  
+  <a href="https://cloud.google.com/training" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>  
   </a>  
 </p>
 
 
   
-### 📞 Let's Connect  
+### 🌐 Let's Connect  
 Feel free to reach out if you're interested in **collaborations, open-source projects, or learning together!**  
