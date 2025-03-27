@@ -1,49 +1,54 @@
-## **<div align="center">Hey👋, I'm DEVANANTHAN G V !</div>**  
-  
+## 👋 Hello, I'm Devananthan G V  
 
-<div align="center">
-<a href="https://github.com/saidhanush27" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/saidhanush27" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/_.dhanushx" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/dhanush_x27" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
+**Electronics & Communication Engineer | Embedded Systems & IoT Developer**  
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devananthan-gv)  
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](#)  
 
+---
 
-## <div align="center"> Glad to see you here!</div>  
-🎓A final-year Computer Science Engineering student at Adhiyamaan College of Engineering, Hosur. Im a passionate and driven individual with a strong foundation in technology, Full Stack web development, and software engineering.
+### 🌟 About Me  
 
-👨🏽‍💻Whether it's designing an intuitive UI or solving complex problems, I find joy in the challenge of continuous learning and innovation. I’m currently looking for opportunities in  software field, thrive in team environments, and contribute to projects that value hard work and collaboration. i am Skilled in Web Development and Design.  
-  
+I am a **third-year Electronics and Communication Engineering student** at **Adhiyamaan College of Engineering, Hosur**, passionate about both **hardware and software development**. My expertise lies in **Embedded Systems, IoT, and Software Development**, with a strong interest in designing real-world applications that bridge the gap between hardware and software.  
 
-<br/> 
+### 🎯 Current Projects  
+- 🌟 **Smart Braille e-Reader** – A voice-to-Braille conversion system using ESP32 and vibration motors.  
+- 🌟 **RFID-Based Hostel Gate Pass System** – Web-based automated gate pass management using RFID.  
+- 🌟 **Balancing Bot in CoppeliaSim** – Implementing LQR control for a self-balancing bot.  
 
-##  <div align="center"> 💻 Tech Stack: </div>
-<div align="center">   
-<a href="https://en.wikipedia.org/wiki/java" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="java" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<br/><br/> 
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a> 
+### 🛠️ Languages - Frameworks - Tools  
+<p align="left">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
+</p>  
 
-</div>  
+### 📝 Skills  
+**Technical:**  
+- Embedded Systems (ESP32, Raspberry Pi, Arduino)  
+- C, Python, IoT Development, Digital Signal Processing  
+- Web Development (HTML, CSS, JavaScript, PHP, WordPress)  
+- API Integration, MongoDB, Cloud Computing  
 
-<br/> 
+**Soft Skills:**  
+- Problem Solving, Leadership, Effective Communication, Strategic Planning  
 
-##
+**Tools & Technologies:**  
+- Docker, Git, CI/CD Pipelines, Linux, JIRA  
 
-## 
-  
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+
+---  
+
+### 📞 Let's Connect  
+Feel free to reach out if you're interested in **collaborations, open-source projects, or learning together!**  
