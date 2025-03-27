@@ -19,7 +19,7 @@ I am always open to collaborating on innovative projects and contributing to ope
 
 ### 🔧 Languages, Frameworks & Tools
 
-![Python]([https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.icons8.com/?size=100&id=13441&format=png&color=000000))
+![Python](<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
