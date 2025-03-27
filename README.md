@@ -29,7 +29,7 @@ I am a **Pre-Final Year Electronics and Communication Engineering student** at *
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino IDE" width="40" height="40"/>  
   </a>  
   <a href="https://www.espressif.com/en/products/socs/esp32/resources" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/ESP32_Logo.svg/120px-ESP32_Logo.svg.png" alt="ESP32" width="40" height="40"/>  
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/ESP32_Logo.svg/120px-ESP32_Logo.svg.png](https://cdn.worldvectorlogo.com/logos/espressif-systems.svg)" alt="ESP32" width="40" height="40"/>  
   </a>  
   <a href="https://www.w3schools.com/sql/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>  
