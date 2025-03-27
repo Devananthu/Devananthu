@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Devananthan G V  
+## Hey, I'm Devananthan G V  
 
 **Electronics & Communication Engineer**  
 
@@ -10,14 +10,29 @@ I am a **Pre-Final Year Electronics and Communication Engineering student** at *
 
 ### 💻 Tech Stack : 
 <p align="left">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="DSA" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino IDE" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Cloud" width="40" height="40"/>  
+  <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>  
+  </a>  
+  <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>  
+  </a>  
+  <a href="https://www.w3schools.com/python/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
+  </a>  
+  <a href="https://www.w3schools.com/java/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
+  </a>  
+  <a href="https://www.geeksforgeeks.org/data-structures/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="DSA" width="40" height="40"/>  
+  </a>  
+  <a href="https://www.arduino.cc/en/Tutorial/HomePage" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino IDE" width="40" height="40"/>  
+  </a>  
+  <a href="https://www.aws.training/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Cloud" width="40" height="40"/>  
+  </a>  
 </p>
+
 
   
 ### 📞 Let's Connect  
