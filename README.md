@@ -1,98 +1,169 @@
-## 👋 Hello, I'm Devananthan G V
+<p align="center">
+  <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">
+    <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  GitHub Profile README Generator
+</h1>
 
-**Software Developer | Hardware Engineer | IoT & Embedded Systems Enthusiast**
+<p align="center">
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator license" />
+</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/fork" target="blank">
+<img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
+</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
+</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues" target="blank">
+<img src="https://img.shields.io/github/issues/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
+</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+</a>
+<a href="https://discord.gg/HHMs7Eg" target="blank">
+<img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
+</a>
+</p>
 
-📧 [Email](mailto:your-email@example.com) | 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/) | 🌐 [Portfolio](https://yourwebsite.com)
+<p align="center"><img src="./src/images/github-profile-readme-generator.gif" alt="github-profile-readme-generator gif" /></p>
 
----
+<p align="center">
+    <a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank">View Demo</a>
+    ·
+    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Report Bug</a>
+    ·
+    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Request Feature</a>
+</p>
 
-### 🚀 About Me
-I am a passionate **Software Developer and Embedded Systems Engineer**, currently pursuing my **Electronics and Communication Engineering (ECE)** degree at **Adhiyamaan College of Engineering, Hosur**. My work spans across **software development, IoT systems, and hardware-based projects**. I am dedicated to designing **smart, efficient, and scalable solutions** that bridge the gap between software and hardware technologies.
+<p align="center">
+<i>Loved the tool? Please consider <a href="https://paypal.me/rahuldkjain/10">donating</a>  💸 to help it improve!</i>
+</p>
 
-🔹 **Specialization:** IoT Systems, Embedded Systems, Web Development, and Digital Image Processing  
-🔹 **Interests:** Full-stack Development, Robotics, AI in Embedded Systems, Cloud Computing  
-🔹 **Currently Learning:** Cloud Computing, Microservices, and Advanced IoT Protocols  
+<p align="center">
+<a href="https://www.paypal.me/rahuldkjain"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
+</a>
+<a href='https://ko-fi.com/A0A81XXSX' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for rahuldkjain' />
+</a>
+<a href="https://www.buymeacoffee.com/rahuldkjain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
+</p>
 
-I am always open to collaborating on innovative projects and contributing to open-source communities. 🚀
+#### Tired of editing GitHub Profile README with new features?
 
----
+This tool provides an easy way to create a GitHub profile readme with the latest add-ons such as `visitors count`, `github stats`, etc.
 
-### 🔧 Languages, Frameworks & Tools
+## 🚀 Demo
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-FF5722?style=for-the-badge&logo=espressif&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+<a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank">
+<img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=flat-square" />
+</a>
 
----
+Try the tool: [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator)
 
-### 💡 Skills
+## 🧐 Features
 
-#### **💻 Software Development:**
-✔ Full-stack Development (React, Node.js, PHP, MongoDB, MySQL)  
-✔ API Development & Integration  
-✔ Cloud Computing (AWS, Azure)  
-✔ Version Control (Git, GitHub)  
-✔ Image & Video Processing (OpenCV, Digital Image Processing)  
+Just fill in the details such as `Name`, `Tagline`, `Dev Platforms Username`, `Current Work`, `Portfolio`, `Blog`, etc. with a minimal UI.
 
-#### **🔧 Hardware & IoT:**
-✔ Embedded Systems (ESP32, Arduino, Raspberry Pi)  
-✔ IoT System Design & Development  
-✔ PCB Design & Circuit Simulation  
-✔ Microcontroller Programming (C, Python)  
-✔ Wireless Communication (RFID, Zigbee, Bluetooth, LoRa)  
+- **Uniform Dev Icons**
 
-#### **🎨 Design & Creativity:**
-✔ UI/UX Development (HTML, CSS, JavaScript, Figma)  
-✔ 3D Modeling (Fusion 360, SolidWorks)  
-✔ Graphic Design (Canva, Photoshop)  
+- **Uniform Social Icons**
 
----
+- **Visitors Counter Badge**
 
-### 🔥 Featured Projects
+- **GitHub Profile Stats Card**
 
-#### 🏷 **Smart Braille e-Reader** (IoT & Embedded Systems)  
-🔹 Voice-to-Braille Conversion using Vibration Motors  
-🔹 Powered by **ESP32** with MOSFET Drivers  
-🔹 **Real-time Speech Processing** for Visually Impaired Users  
+- **GitHub Top Skills**
 
-#### 🚪 **RFID-Based Web Hostel Gate Pass System**  
-🔹 Secure RFID authentication system  
-🔹 Integrated with **Cloud Database & Web Dashboard**  
-🔹 **Real-time Monitoring & Alerts**  
+- **GitHub Streak Stats**
 
-#### 📊 **CT Image Denoising Using Digital Image Processing**  
-🔹 Reduces **Periodic & Poisson Noise**  
-🔹 Developed with **NumPy, SciPy, Machine Learning**  
-🔹 Helps in **Medical Imaging Enhancement**  
+- **Dynamic Dev(.)to Blogs** (GitHub Action)
 
-#### 🏆 **Smart India Hackathon (SIH) 2025 College-Level Finalist**  
-🔹 Developed an innovative **IoT-based solution**  
-🔹 Focused on **smart automation & security**  
+- **Dynamic Medium Blogs** (GitHub Action)
 
-#### 🤖 **e-Yantra Robotics Competition 2024 Participant**  
-🔹 Designed a **balancing bot** using **LQR Control & CoppeliaSim**  
-🔹 Focused on **Autonomous Robotics & Simulation**  
+- **Dynamic Personal Blogs from RSS Feed** (GitHub Action)
 
----
+- **Wakatime Stats** [contribute](https://github.com/rahuldkjain/github-profile-readme-generator/issues/115)
 
-### 📊 GitHub Stats
+- **Buy Me A Coffee button**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+Click on `Generate README` to get your README in `markdown`.
+You can preview the README too.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+## 🛠️ Installation Steps
 
----
+1. Clone the repository
 
-### 🎯 How to Reach Me
-📩 **Email:** your-email@example.com  
-🔗 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
-💼 **LinkedIn:** [your-profile](https://www.linkedin.com/in/your-profile/)  
-🐦 **Twitter:** [your-twitter](https://twitter.com/your-twitter)  
+```bash
+git clone https://github.com/rahuldkjain/github-profile-readme-generator.git
+```
 
-🚀 Let's collaborate and build something amazing! **Feel free to reach out!** 😊
+2. Change the working directory
+
+```bash
+cd github-profile-readme-generator
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Run the app
+
+```bash
+npm start
+```
+
+🌟 You are all set!
+
+## 🍰 Contributing
+
+Please contribute using [GitHub Flow](https://guides.github.com/introduction/flow). Create a branch, add commits, and [open a pull request](https://github.com/rahuldkjain/github-profile-readme-generator/compare).
+
+Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDUCT`](CODE_OF_CONDUCT.md), and the process for submitting pull requests to us.
+
+## 💻 Built with
+
+- [Gatsby](https://www.gatsbyjs.com/)
+- [Tailwind CSS](https://tailwindcss.com/): for styling
+- [GSAP](https://greensock.com/gsap/): for small SVG Animations
+
+## 🙇 Special Thanks
+
+- [Anurag Hazra](https://github.com/anuraghazra) for amazing [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- [Anton Komarev](https://github.com/antonkomarev) for super cool [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+- [Gautam Krishna R](https://github.com/gautamkrishnar) for the awesome [blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+- [Jonah Lawrence](https://github.com/DenverCoder1) for the incredible [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+- [Julien Monty](https://github.com/konpa) for super useful [devicon](https://github.com/konpa/devicon)
+- [Eliot Sanford](https://github.com/techieeliot) for adding hashnode as a blog input
+
+## 🙇 Sponsors
+
+- [Scott C Wilson](https://github.com/scottcwilson) donated the first-ever grant to this tool. A big thanks to him.
+- [Max Schmitt](https://github.com/mxschmitt) loved the tool and showed support with his donation. Thanks a lot.
+- [Aadit Kamat](https://github.com/aaditkamat) find the tool useful and showed support with his donation. A big thanks to him.
+- [Jean-Michel Fayard](https://github.com/jmfayard) used the generator to create his GitHub Profile README and he loved it. Thanks to him for showing support to the tool with the donation.
+
+## 🙏 Support
+
+<p align="left">
+<a href="https://www.paypal.me/rahuldkjain/10"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
+</a>
+<a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Frahuldkjain.github.io%2Fgithub-profile-readme-generator">
+<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Frahuldkjain.github.io%2Fgithub-profile-readme-generator" alt="tweet github profile readme generator"/>
+</a>
+</p>
+
+<p align="left">
+  <a href='https://ko-fi.com/A0A81XXSX' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for rahuldkjain' />
+  </a>
+  <a href="https://www.buymeacoffee.com/rahuldkjain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
+</p>
+
+<hr>
+<p align="center">
+Developed with ❤️ in India 🇮🇳 
+</p>
