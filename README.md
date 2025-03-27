@@ -2,7 +2,7 @@
 
 **Software Developer | Hardware Engineer | IoT & Embedded Systems Enthusiast**
 
-📧 [Email](mailto:your-email@example.com) | 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/) | 🌐 [Portfolio](https://yourwebsite.com)
+📧 [Email](mailto:your-email@example.com) | 💼 [LinkedIn]() | 🌐 [Portfolio](https://yourwebsite.com)
 
 ---
 
@@ -19,7 +19,7 @@ I am always open to collaborating on innovative projects and contributing to ope
 
 ### 🔧 Languages, Frameworks & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python]([https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.icons8.com/?size=100&id=13441&format=png&color=000000))
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -71,7 +71,7 @@ I am always open to collaborating on innovative projects and contributing to ope
 🔹 Developed with **NumPy, SciPy, Machine Learning**  
 🔹 Helps in **Medical Imaging Enhancement**  
 
-#### 🏆 **Smart India Hackathon (SIH) 2025 College-Level Finalist**  
+#### 🏆 **Smart India Hackathon (SIH) 2024 College-Level Finalist**  
 🔹 Developed an innovative **IoT-based solution**  
 🔹 Focused on **smart automation & security**  
 
