@@ -1,14 +1,9 @@
-## 👋 Hello, I'm Devananthan G V  
+## 👋 Hey, I'm Devananthan G V  
 
 **Electronics & Communication Engineer | Embedded Systems & IoT Developer**  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devananthan-gv) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram/)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devananthan-gv)  
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](#)  
-
----
-
-### 🌟 About Me  
+### Glad to see you here!
 
 I am a **third-year Electronics and Communication Engineering student** at **Adhiyamaan College of Engineering, Hosur**, passionate about both **hardware and software development**. My expertise lies in **Embedded Systems, IoT, and Software Development**, with a strong interest in designing real-world applications that bridge the gap between hardware and software.  
 
